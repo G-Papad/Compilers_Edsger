@@ -46,3 +46,9 @@ The given options are:
 if nothing given then it produces assembly code and an executable file named a.out
 ```
 
+Code Dependences:  
+- llvm 18.0.0
+- clang 18.0.0
+- ocaml 4.14.0
+- opam 2.0.5
+- gcc 9.4.0
